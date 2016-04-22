@@ -1,0 +1,2 @@
+module Camelot
+end
